@@ -7,7 +7,10 @@ see you in the future
 
 -
 
-<!---
-so many people dont believe what i do for the achivement
+---
 I know it's difficult but I will still achieve it, i promise!!!
+---
+
+<!---
+A
 --->
