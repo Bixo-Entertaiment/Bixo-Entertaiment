@@ -1,4 +1,3 @@
-BIXO-
 
 Hi there, @Bixo-Entertaiment in here
 
