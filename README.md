@@ -1,5 +1,5 @@
 ---
-start
+- WELCOME TO MY GITHUB
 ---
 
 Hi there, @Bixo-Entertaiment in here
@@ -10,9 +10,8 @@ see you in the future
 
 -
 
----
 I know it's difficult but I will still achieve it, i promise!!!
----
+
 
 <!---
 A
