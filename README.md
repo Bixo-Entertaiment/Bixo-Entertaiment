@@ -1,5 +1,5 @@
 ---
-- WELCOME TO MY GITHUB
+WELCOME TO MY GITHUB
 ---
 
 Hi there, @Bixo-Entertaiment in here
